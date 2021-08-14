@@ -6,9 +6,11 @@ Thank you for choosing to be part of our community at TheWoodWorkerToolbox ("Com
 This privacy notice describes how we might use your information if you:
 - Download and use our mobile application — The Woodworker Toolbox
 - Engage with us in other related ways ― including any sales, marketing, or events
+
 In this privacy notice, if we refer to:
 - "App," we are referring to any application of ours that link to this policy, including any listed above
 - "Services," we are referring to our&nbsp;App,&nbsp;and other related services, including any sales, marketing, or events
+
 The purpose of this privacy notice is to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
 Please read this privacy notice carefully, as it will help you understand what we do with the information that we collect.
@@ -39,6 +41,7 @@ We may process or share your data that we hold based on the following legal basi
 - Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
 - Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
 - Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+
 More specifically, we may need to process your data or share your personal information in the following situations:
 - Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
