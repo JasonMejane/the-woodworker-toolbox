@@ -13,6 +13,7 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 
 Please read this privacy notice carefully, as it will help you understand what we do with the information that we collect.
 
+---
 TABLE OF CONTENTS
 1. WHAT INFORMATION DO WE COLLECT?
 2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
@@ -25,6 +26,7 @@ TABLE OF CONTENTS
 9. DO WE MAKE UPDATES TO THIS NOTICE?
 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 11. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
+---
 
 1. WHAT INFORMATION DO WE COLLECT?
 We DO NOT collect any information.
